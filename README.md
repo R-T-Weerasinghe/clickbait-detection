@@ -1,2 +1,13 @@
-# clickbait-detection
-Clickbait title detection using a variety of supervised and unsupervised AI technologies. Currently a working supervised model is developed and tested. Working on upsupervised approaches.
+# Clickbait Detection
+
+This repository explores clickbait headline detection using both supervised and unsupervised approaches.
+
+## Repository structure
+
+- `supervised-approach/` — notebook for the supervised CNN-based approach.
+- `unsupervised-approach/` — notebook for the unsupervised approach.
+
+## Current status
+
+- Supervised model: implemented and tested.
+- Unsupervised model: work in progress.
